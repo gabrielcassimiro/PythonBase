@@ -35,12 +35,13 @@ Here you will find several other functionalities that are easier to implement he
 
 ___
 
-# Biblioteas Populares
+# Popular Libraries
 
-Aqui deixarei para referências as bibliotecas populares que são muito utilizadas no Python
+Here I will leave references to popular libraries that are widely used in Python.
 
-> Lembrando que para instalar uma biblioteca, basta digitar o comando:
->> pip install <nome_da_biblioteca>
+> Remember that to install a library, simply type the command:
+>> pip install <library_name>
+
 
 - math
 ```py
